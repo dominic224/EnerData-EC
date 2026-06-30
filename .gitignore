@@ -4,3 +4,11 @@ __pycache__/
 *.pyc
 .DS_Store
 .env
+venv/
+env/
+dist/
+build/
+*.log
+*.db
+*.sqlite
+instance/
